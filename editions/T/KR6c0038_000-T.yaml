@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6c0038/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 金剛般若經序胡吉藏法師撰金剛般若波羅蜜經者斯乃是三觀之虛明一實之淵致昔仙人苑內未燿此摩尼今長者園中方灑茲甘露良由小志先開故早馳羊鹿大心始發方駕此白牛斯乃正教之供範薩埵明訓非雲非雨德潤四生非日非月照明三界統萬行若滄海之納眾流蕩紛異若冬霜之凋百草若具存梵本應云跋闍羅般若波羅蜜修多羅此土翻譯金剛智慧彼岸到經明無累不摧稱曰金剛無境不照目為般若永勉彼此名波羅蜜經者訓法常也
   hash: sha256:dc5dc6741b0379f585962caa9ee3f6d75009e00ae31a53b753b25a48b6957f41
   markers:
   - {type: 序, offset: 0, content: 金剛般若經序, id: KR6c0038_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 金剛般若疏
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T33/T33n1699.xml
     old_id: T33n1699
-hash: sha256:2d89ef3d0bd311965417221fa6153b81936c4493759d663d367f2a7d97c1ae6e
+hash: sha256:81ae9b68b338556e02636075c5804a6b6e4a7e4a0753646a6373e98fe26d0e1f

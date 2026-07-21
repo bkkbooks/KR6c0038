@@ -21,13 +21,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6c0038_000.yaml, hash: 'sha256:95aa5b3c343a233352005c7d0e21db6fa2fb8dcd86bc00ae3fd219a8d9cf316e'}
+  - {seq: 0, filename: KR6c0038_000.yaml, hash: 'sha256:a515646a06f8d766857b19d75c0083988dcd90cb84214097b5e2c7c1e3b73a07'}
   - {seq: 1, filename: KR6c0038_001.yaml, hash: 'sha256:327f6357c70e390d5647a8e392a9a6cf9da45237986f46e3ac64cdc6d035c9ea'}
   - {seq: 2, filename: KR6c0038_002.yaml, hash: 'sha256:a6920af45d7b58b71c5e4769fb5e418932ff3870da64201ede8bda272e7f863b'}
   - {seq: 3, filename: KR6c0038_003.yaml, hash: 'sha256:0513c5552d5e87fb5738a467ad7ecc75abf6a3b639fe68e33bdeffb8eca86892'}
   - {seq: 4, filename: KR6c0038_004.yaml, hash: 'sha256:1c3c88442c2bd20f1b69fdcbb59370978818a5cf20443d9c9333580f91769bf8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0038_000.markers.yaml, hash: 'sha256:779e38489803c3a4e464e49ccbfb04223a7e51335787ca4ee498bf54ed0e27fe'}
+  - {seq: 0, role: markers, filename: assets/KR6c0038_000.markers.yaml, hash: 'sha256:c8c310cc6ff779ab239e7774a33676811ba87a58cfc1e683ed2abed865284dfd'}
   - {seq: 1, role: markers, filename: assets/KR6c0038_001.markers.yaml, hash: 'sha256:b9a28afd76f6dffc9c2d270f19972273e7649abbbe8356cfbc7803845d61b280'}
   - {seq: 2, role: markers, filename: assets/KR6c0038_002.markers.yaml, hash: 'sha256:398302f450a9195e1969f49e656070cf7708ca2291cecaa87b8219564c19748b'}
   - {seq: 3, role: markers, filename: assets/KR6c0038_003.markers.yaml, hash: 'sha256:16cd3619b3f93c0bed054360c7991717c29a11db46086e2a2df779cecc698929'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0038_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金剛般若經序
@@ -83,7 +83,7 @@ table_of_contents:
   label: 金剛般若疏卷第四
   type: juan
   level: 1
-hash: sha256:9295fa47696b2d023d302d2a31ee386686f93cae97ed8a39005e954af93f9c02
+hash: sha256:9eda7d4f77b4e481e44501284f0a543be546601a2d7e09dce29a4d3b53beee18
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
